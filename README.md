@@ -12,6 +12,10 @@
 
 Estou estudando redes e cibersegurança, com foco em AWS, Azure e GCP, e buscando aprender a proteger infraestruturas e otimizar soluções em nuvem. Tenho interesse em aplicar as melhores práticas para garantir segurança e eficiência.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/victordjalma/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+</p>
+
 
 <br><br><br>
 **"COM GRANDES PODERES" - PETER,BEN**
