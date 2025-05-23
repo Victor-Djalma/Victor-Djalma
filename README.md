@@ -10,7 +10,9 @@
 
 <img align="right" height="190" src="https://i.pinimg.com/originals/96/6b/56/966b5685dabfd979b040ec887a874a95.gif">
 
-Estou estudando redes e cibersegurança, com foco em AWS, Azure e GCP, e buscando aprender a proteger infraestruturas e otimizar soluções em nuvem. Tenho interesse em aplicar as melhores práticas para garantir segurança e eficiência.
+Oi! Me chamo Victor Djalma, tenho 19 anos e sou um entusiasta de cibersegurança, redes e cloud computing. Curioso por natureza, gosto de entender como as coisas funcionam por trás da tela — seja protegendo sistemas ou explorando arquiteturas em nuvem.
+Também programo em Python, sempre buscando soluções que facilitem o dia a dia.
+Gosto de aprender, trocar ideias e me conectar com pessoas que também vivem tecnologia com paixão.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victordjalma/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
