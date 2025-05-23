@@ -20,7 +20,7 @@ Gosto de aprender, trocar ideias e me conectar com pessoas que também vivem tec
 
 
 <br><br><br>
-**"COM GRANDES PODERES" - PETER,BEN**
+**"Aquele que foge do medo nunca será verdadeiramente livre."**
 
 
 
